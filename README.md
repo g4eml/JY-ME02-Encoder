@@ -6,7 +6,8 @@ The .h and .cpp files can be used in other Arduino sketches as required.
 
 The encoder output uses RS485 for the data transmission. A suitable RS485 to TTL Serial converter module can be found on Amazon for a few pounds.
 
-<img width="200" height="200" alt="JY-ME02" src="https://github.com/user-attachments/assets/ce76ce7a-e00f-477a-9609-3d1aa4ce9aea" />   <img width="200" height="200" alt="RS485" src="https://github.com/user-attachments/assets/5b02b72e-781b-4dd9-9801-f2ff472d88f2" />  
+<img width="200" height="200" alt="JY-ME02" src="https://github.com/user-attachments/assets/ce76ce7a-e00f-477a-9609-3d1aa4ce9aea" />   <img width="200" height="200" alt="RS485" src="https://github.com/user-attachments/assets/5b02b72e-781b-4dd9-9801-f2ff472d88f2" />  <img width="220" height="200" alt="rp2040" src="https://github.com/user-attachments/assets/f5ef2ac6-3177-406b-a1fd-a6b92d48ce1f" />
+
 
 ## Connections
 
