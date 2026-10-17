@@ -2,8 +2,8 @@
 
 The JY-ME02 encoder is an absolute position encoder. This is available in several forms. This repository is specifically for the RS485 interface version. 
 The included Arduino Test file allows it to be used with a RP2040 processor. The current angle and velocity of the sensor are printed on the USB Serial output of the RP2040.
-The encoder can be set for multiple turns. For example it could be connected to an intermediate gear shaft in a rotator. 
-change the following line to configure the output scaling. 
+The encoder can be set for multiple turns. For example it could be connected to the intermediate gear shaft in a Spid rotator which turns once every 6 degrees. 
+Change the following line to configure the output scaling. 
 
 ```sh
 const float ANTENNA_DEG_PER_SHAFT_REV = 6.0;   // antenna deg per encoder turn
