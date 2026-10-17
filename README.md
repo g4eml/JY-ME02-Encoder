@@ -9,6 +9,7 @@ The encoder output uses RS485 for the data transmission. A suitable RS485 to TTL
 
 
 | Encoder | Converter | RP2040 |
+| :---:   | :---:     | :---:  |
 | VCC     | VCC       | 5V |
 | A       | A         | GPIO 2 |
 | B       | B         | GPIO 3 |
