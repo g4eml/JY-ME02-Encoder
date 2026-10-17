@@ -5,9 +5,9 @@ The included Arduino Test file allows it to be used with a RP2040 processor. The
 The encoder can be set for multiple turns. For example it could be connected to an intermediate gear shaft in a rotator. 
 change the following line to configure the output scaling. 
 
-'''sh
+```sh
 const float ANTENNA_DEG_PER_SHAFT_REV = 6.0;   // antenna deg per encoder turn
-'''
+```
 
 The Sketch also responds to two commands:-
 'Z'  Zero the angle and rotations. 
