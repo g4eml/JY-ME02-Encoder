@@ -8,3 +8,8 @@ The .h and .cpp files can be used in other Arduino sketches as required.
 The encoder output uses RS485 for the data transmission. A suitable RS485 to TTL Serial converter module can be found on Amazon for a few pounds. 
 
 
+| Encoder | Converter | RP2040 |
+| VCC     | VCC       | 5V |
+| A       | A         | GPIO 2 |
+| B       | B         | GPIO 3 |
+| GND     | GND       | GND |
